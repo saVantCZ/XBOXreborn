@@ -3,6 +3,6 @@ Packages:
   - Version: 1.0.0
     RequiredApiVersion: 2.4.0
     ReleaseDate: 2023-01-22
-    PackageUrl: 
+    PackageUrl: https://github.com/saVantCZ/XBOXreborn/releases/download/v1.0.0/XBOXreborn_26cb756a-91f1-4243-9d68-c97c2f64809b_1_0_0.pthm
     Changelog:
       - Inital release
