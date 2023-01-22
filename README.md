@@ -17,7 +17,7 @@ Perfect Xbox theme experience for Playnite
 * Rows: 3
 
 ### Custom Settings:
-* Screenshots are stored in extrametadata folder + GameID folder and files are named Screenshot1.jpg to Screenshot4.jpg
+* Screenshots are stored in extrametadata/games/GAMEID/ folder and files are named Screenshot1.jpg to Screenshot4.jpg
 #### Edit in Constants.xaml
 * Custom UserName
 * Custom Theme Color
