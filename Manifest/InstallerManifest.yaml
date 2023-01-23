@@ -1,12 +1,12 @@
 AddonId: XBOXreborn_26cb756a-91f1-4243-9d68-c97c2f64809b
 Packages:
-- Version: 1.0.1
+  - Version: 1.0.1
     RequiredApiVersion: 2.4.0
     ReleaseDate: 2023-01-23
     PackageUrl: https://github.com/saVantCZ/XBOXreborn/releases/download/v1.0.1/XBOXreborn_26cb756a-91f1-4243-9d68-c97c2f64809b_1_0_1.pthm
     Changelog:
       - Fixed wrong "GamePoints" total count for SuccessStory
-- Version: 1.0.0
+  - Version: 1.0.0
     RequiredApiVersion: 2.4.0
     ReleaseDate: 2023-01-22
     PackageUrl: https://github.com/saVantCZ/XBOXreborn/releases/download/v1.0.0/XBOXreborn_26cb756a-91f1-4243-9d68-c97c2f64809b_1_0_0.pthm
