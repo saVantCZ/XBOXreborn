@@ -13,6 +13,7 @@ Perfect Xbox theme experience for Playnite
 
 ### Needed Settings:
 #### Layout
+* 1:1 Square Cover images (sorry, not supporting box covers)
 * Columns: 7
 * Rows: 3
 
