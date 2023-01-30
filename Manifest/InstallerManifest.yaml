@@ -19,3 +19,12 @@ Packages:
     Changelog:
       - Added basic Platform icon support
       - Platform Icons needs to be set in Library Manager (ctrl+w) for each platform category in use
+  - Version: 1.1.0
+    RequiredApiVersion: 2.4.0
+    ReleaseDate: 2023-01-30
+    PackageUrl: https://github.com/saVantCZ/XBOXreborn/releases/download/v1.1.0/XBOXreborn_26cb756a-91f1-4243-9d68-c97c2f64809b_1_1_0.pthm
+    Changelog:
+      - Removed Platform Icon support and replaced with Source Icons
+      - Added support for custom background (enable or disable in Constants.xaml)
+      - Dynamic video wallpaper can be disabled in Constants.xaml (disable if using custom background or game backgrounds for performance gain)
+      - Small visual tweaks
