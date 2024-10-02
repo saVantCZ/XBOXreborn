@@ -28,3 +28,9 @@ Packages:
       - Added support for custom background (enable or disable in Constants.xaml)
       - Dynamic video wallpaper can be disabled in Constants.xaml (disable if using custom background or game backgrounds for performance gain)
       - Small visual tweaks
+  - Version: 1.1.1
+    RequiredApiVersion: 2.4.0
+    ReleaseDate: 2024-10-02
+    PackageUrl: https://github.com/saVantCZ/XBOXreborn/releases/download/v1.1.1/XBOXreborn_26cb756a-91f1-4243-9d68-c97c2f64809b_1_1_1.pthm
+    Changelog:
+      - Fixed buzzing audio
